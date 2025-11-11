@@ -24,13 +24,13 @@ Converts quotes directly inside your component props.
 
 Works great for building dynamic strings from variables.
 
-![Demo: Converting Single Quotes](https://github.com/your-username/your-repo/raw/main/gifs/single-quote-demo.gif)
+![Demo: Converting Single Quotes](https://github.com/iDDGE7/auto-template-string/blob/develop/images/single-quotes-demo.gif?raw=true)
 
 ### 3. Standard Double Quotes (" ")
 
 Handles double quotes just as easily.
 
-![Demo: Converting Double Quotes](https://github.com/your-username/your-repo/raw/main/gifs/double-quote-demo.gif)
+![Demo: Converting Double Quotes](https://github.com/iDDGE7/auto-template-string/blob/develop/images/double-quotes-demo.gif?raw=true)
 
 ## 📦 Installation
 
