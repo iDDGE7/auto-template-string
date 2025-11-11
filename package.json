@@ -2,7 +2,7 @@
     "name": "auto-template-string",
     "displayName": "auto-template-string",
     "description": "Automatically converts simple quotes or double quotes to template strings",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "icon": "images/icon.png",
     "publisher": "iDDGE7",
     "repository": {
