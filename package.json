@@ -3,6 +3,7 @@
     "displayName": "auto-template-string",
     "description": "Automatically converts simple quotes or double quotes to template strings",
     "version": "0.0.1",
+    "icon": "images/icon.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/iDDGE7/auto-template-string"
