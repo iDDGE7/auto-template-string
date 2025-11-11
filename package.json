@@ -4,6 +4,7 @@
     "description": "Automatically converts simple quotes or double quotes to template strings",
     "version": "0.0.1",
     "icon": "images/icon.png",
+    "publisher": "iDDGE7",
     "repository": {
         "type": "git",
         "url": "https://github.com/iDDGE7/auto-template-string"
