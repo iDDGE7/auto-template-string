@@ -3,6 +3,10 @@
     "displayName": "auto-template-string",
     "description": "Automatically converts simple quotes or double quotes to template strings",
     "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/iDDGE7/auto-template-string"
+    },
     "engines": {
         "vscode": "^1.105.0"
     },
@@ -44,5 +48,6 @@
         "typescript": "^5.9.3",
         "@vscode/test-cli": "^0.0.11",
         "@vscode/test-electron": "^2.5.2"
-    }
+    },
+    "license": "MIT"
 }
