@@ -38,6 +38,22 @@ Handles double quotes just as easily.
 2.  Search for `Single auto-template-string`.
 3.  Click **Install**.
 
+## ✏️ Supported Languages 
+
+-   JavaScript
+-   TypeScript
+-   JavaScript React
+-   TypeScript React
+-   Svelte
+
+# 📝 Contributing
+
+Contributions are welcome!
+
+## 🛟 Suggestions
+
+If you have any suggestions or ideas, please feel free to open an issue or submit a pull request.
+
 ## 📄 License
 
 MIT License
